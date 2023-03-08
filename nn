@@ -1,0 +1,18 @@
+<td><?php echo $row['id']?></td>
+                                    <td><?php echo $row['Job_application_Title']?></td>
+                                    <td><?php echo $row['Applicant_first_name']?></td>
+                                    <td><?php echo $row['Applicant_last_name']?></td>
+                                    <td><?php echo $row['ID_NO']?></td>
+                                    <td><?php echo $row['gender']?></td>
+                                    <td><?php echo $row['Year_of_Birth']?></td>
+                                    <td><?php echo $row['Ethinicity']?></td>
+                                    <td><?php echo $row['Tel_contact']?></td>
+                                    <td><?php echo $row['Home_County']?></td>
+                                    <td><?php echo $row['Home_Constituency']?></td>
+                                    <td><?php echo $row['ward']?></td>
+                                    <td><?php echo $row['PWD']?></td>
+                                    <td><?php echo $row['Qualification']?></td>
+                                    <td><?php echo $row['Year_Graduation']?></td>
+                                    <td><?php echo $row['Highest_Academic_level']?></td>
+                                    <td><?php echo $row['Specialization']?></td>
+                        
